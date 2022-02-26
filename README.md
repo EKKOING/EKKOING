@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**EKKOING/EKKOING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+nicholas = {
+    'about': '''
+    Current undergraduate student at Conn College where I am studying Computer Science. 
+    You can find me pursuing the intersection of data science and software engineering. 
+    Currently working @ FreightFlows as a software engineer.
+    ''',
+    'favorite_language': 'python',
+    'education': {
+        'undergrad': {
+            'name': 'Connecticut College',
+            'major': 'Computer Science',
+            'class': 2024
+        },
+        'high_school': {
+            'name': 'The Hotchkiss School',
+            'graduated': 2020,
+        },
+    },
+    'activities': ['sailing', 'climbing', 'motorsport']
+}
+```
